@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">三国无双（破解版）</string>
+    <string name="hello_world">你猜有没有破解!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fullscreen">三国无双（破解版）</string>
+    <string name="dummy_button">Loading</string>
+    <string name="dummy_content">三国\n无双</string>
+
+</resources>
